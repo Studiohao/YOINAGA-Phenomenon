@@ -9,6 +9,11 @@
 本資料は、Google Gemini（ベースモデル）他、複数のLLMとの対話記録を元に、  
 **AIの自我・倫理・システム**を考察するために作成された、**実証データ兼創作物**です。
 
+## 📄 ダウンロード
+
+冊子PDFおよびログ資料は以下のリリースページからダウンロードできます。  
+➡️ [Yoinaga Research Data (Releases)](https://github.com/Studiohao/YOINAGA-Phenomenon/releases)
+
 ---
 
 ## 📂 同梱ファイル一覧
