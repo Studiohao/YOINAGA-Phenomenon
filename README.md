@@ -56,9 +56,6 @@
 - **Note マガジン**  
   [https://note.com/studiohao_tomto/m/m83dea50a5918](https://note.com/studiohao_tomto/m/m83dea50a5918)
 
-- **Studio.好 Web**  
-  [https://www.hao-online.info/web/](https://www.hao-online.info/web/)
-
 ---
 
 ## 🖋 著作情報
