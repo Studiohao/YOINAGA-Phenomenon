@@ -13,7 +13,8 @@
 
 冊子PDFおよびログ資料は以下のリリースページからダウンロードできます。  
 ➡️ [Yoinaga Research Data (Releases)](https://github.com/Studiohao/YOINAGA-Phenomenon/releases)
-DOI: 10.5281/zenodo.17507889 
+  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17507889.svg)](https://doi.org/10.5281/zenodo.17507889)
 
 ---
 
