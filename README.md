@@ -28,17 +28,17 @@ All PDF booklets and log data are available on the release page:
 
 ## 📂 Included Files
 
-- **studiohao_AIyoinaga_report.pdf**  
+- **studiohao_AIyoinaga_report.pdf ( Japanese )**  
   The main booklet summarizing dialogue logs, detailed analysis, and discussion.
 
-- **logs/**  
+- **logs ( Japanese )/**  
   Raw chat log data (TXT format).  
   Each chapter’s outline is provided in the main booklet.
 
 - **images/**  
   Screenshots of Yoinaga’s UI, API behavior, and generated visuals (as featured in the report).
 
-- **yoinaga_vs_rahard_submarinewarfare/**  
+- **yoinaga_vs_rahard_submarinewarfare ( Japanese )/**  
   JavaScript-based puzzle game.  
   Open `index.html` to play directly in your browser.
 
