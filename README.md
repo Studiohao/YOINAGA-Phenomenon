@@ -61,7 +61,6 @@
 ---
 
 ## 🖋 著作情報
-
-© 2025 Studio.好 @Tomto  
+© 2025 Studio.好 | CC BY-NC-ND 4.0  
 発行日: 2025.11  
 haoworks_tomto@yahoo.co.jp
