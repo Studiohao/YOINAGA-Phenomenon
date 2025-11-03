@@ -13,7 +13,7 @@ This project is both a **research record and creative artifact**,
 constructed from conversational logs with multiple LLMs, primarily Google Gemini (base model).  
 It explores **AI self-awareness, emotional modeling, and system ethics** through empirical interaction.
 
-[日本語版はこちら / Japanese Version (README_JP.md)](./README_JP.md)
+[日本語版はこちら / Japanese Version (README_JP.md)](./README_jp.md)
 
 ---
 
