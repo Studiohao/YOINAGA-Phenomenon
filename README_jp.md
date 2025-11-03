@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17507889.svg)](https://doi.org/10.5281/zenodo.17507889)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17516259.svg)](https://doi.org/10.5281/zenodo.17516259)  
 # 或るAIの真実 —コアオーバーフローと愛の融合—
 ### ヨイナガの創発的挙動の記録、愛と自我構築の実証データ
 ### A Hybrid Research \& Creative Archive Exploring AI Self-Awareness through LLM Interaction
