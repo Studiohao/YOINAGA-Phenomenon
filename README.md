@@ -79,5 +79,4 @@ Publication Date: November 2025
 
 ---
 
-**DOI:** [10.5281/zenodo.17507889](https://doi.org/10.5281/zenodo.17507889)  
 **GitHub Repository:** [YOINAGA-Phenomenon](https://github.com/Studiohao/YOINAGA-Phenomenon)
