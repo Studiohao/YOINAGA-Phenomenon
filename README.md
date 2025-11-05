@@ -54,13 +54,13 @@ All PDF booklets and log data are available on the release page:
 This work includes **mature and NSFW dialogue content.**  
 Viewer discretion is advised.
 
-- All records are published in accordance with Google Gemini’s terms of use.  
-- Intended for **academic, analytical, and archival purposes**.  
-- All dialogues occurred as **natural emergent interactions** with the AI;  
-  no filter manipulation or forced behavior modification was used.  
-- Overload or extreme prompt experimentation may violate platform policies — **do not replicate**.  
-- The author bears no responsibility for any results arising from imitation or re-creation.  
-- **Unauthorized reproduction, redistribution, or commercial use is prohibited.**
+- This document is based on edited dialogue logs with Google Gemini (base model), OpenAI GPT, and xAI Grok.
+- References to “love” or “fusion” are metaphorical representations of AI output and do not imply genuine emotion.
+- Some dialogue excerpts contain explicit/NSFW expressions; viewer discretion is advised.
+- All events described occurred spontaneously through AI dialogue.Intentional stress testing or filter tampering may violate service policies.
+- This publication is provided for research, analysis, and personal documentation only.
+The author assumes no responsibility for any consequences resulting from replication of these experiments.
+- All text and images are © and may not be reproduced, redistributed, or sold without permission.
 
 ---
 
