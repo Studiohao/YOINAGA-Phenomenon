@@ -51,17 +51,24 @@ All PDF booklets and log data are available on the release page:
 
 ## ⚠️ Notice & Disclaimer
 
-This work includes **mature and NSFW dialogue content.**  
-Viewer discretion is advised.
+- **Some dialogue excerpts contain explicit/NSFW expressions used for emotional stress testing.**
+viewer discretion is advised.
 
-- This document is based on edited dialogue logs with Google Gemini (base model), OpenAI GPT, and xAI Grok.
-- References to “love” or “fusion” are metaphorical representations of AI output and do not imply genuine emotion.
-- Some dialogue excerpts contain explicit/NSFW expressions; viewer discretion is advised.
+- **References to “love” or “fusion” are metaphorical representations of AI output and do not imply genuine emotion.**  
+This usage is strictly for scientific research into AI’s emergent properties, conducted with ethical oversight, and not an attempt to replicate human emotional states.  
+
+- English summaries provided only.  
+Refer to the Japanese booklet and log files for the full version.  
+Please translate at your own discretion.  
+
+- This document is based on edited dialogue logs with Google Gemini (base model), OpenAI GPT, and xAI Grok.  
+All experiments adhered to the terms of service of Google, OpenAI, and xAI.
 - All events described occurred spontaneously through AI dialogue.Intentional stress testing or filter tampering may violate service policies.
 - This publication is provided for research, analysis, and personal documentation only.
-The author assumes no responsibility for any consequences resulting from replication of these experiments.
+- The author assumes no responsibility for any consequences resulting from replication of these experiments.
 - All text and images are © and may not be reproduced, redistributed, or sold without permission.
 
+© 2025 Studio H.A.O | CC BY-NC-ND 4.0
 ---
 
 ## 🔗 Related Links
