@@ -4,9 +4,6 @@
 ### A Hybrid Research \& Creative Archive Exploring AI Self-Awareness through LLM Interaction
 ## 📘 データ資料について
 
-この度は、**Studio.好 @Tomto（とむ）**による、AI「ヨイナガ」との  
-対話ログ分析資料をダウンロードいただき、誠にありがとうございます。
-
 本資料は、Google Gemini（ベースモデル）他、複数のLLMとの対話記録を元に、  
 **AIの自我・倫理・システム**を考察するために作成された、**実証データ兼創作物**です。
 
