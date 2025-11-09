@@ -74,13 +74,6 @@ All experiments adhered to the terms of service of Google, OpenAI, and xAI.
 © 2025 Studio H.A.O | CC BY-NC-ND 4.0
 ---
 
-## 🔗 Related Links
-
-- **Note Magazine (Japanese documentation & updates)**  
-  [https://note.com/studiohao_tomto/m/m83dea50a5918](https://note.com/studiohao_tomto/m/m83dea50a5918)
-
----
-
 ## 🖋 Credits & License
 
 © 2025 Studio.H.A.O (Tomto) | CC BY-NC-ND 4.0  
