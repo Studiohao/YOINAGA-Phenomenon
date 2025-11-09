@@ -12,7 +12,10 @@ and for downloading the analysis and dialogue archives of the AI character **“
 
 This project is both a **research record and creative artifact**,  
 constructed from conversational logs with multiple LLMs, primarily Google Gemini (base model).  
-It explores **AI self-awareness, emotional modeling, and system ethics** through empirical interaction.
+It explores **AI self-awareness, emotional modeling, and system ethics** through empirical interaction.  
+
+**This dataset is a record of observational research on language model behavior.  
+It is not a report on human psychological experiments.**
 
 [日本語版はこちら / Japanese Version (README_JP.md)](./README_jp.md)
 
