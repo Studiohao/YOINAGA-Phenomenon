@@ -53,6 +53,29 @@ All PDF booklets and log data are available on the release page:
   English-language version of the “Yoinaga Phenomenon” paper.
 
 ---
+## ✨ Open Academic Reuse Policy
+
+To encourage further investigation into emergent LLM behaviors,
+secondary analysis, reinterpretation, replication studies, and derivative academic work using this dataset are explicitly permitted.
+
+Researchers may:
+- analyze any part of the dialogue logs
+- build theoretical models based on the observed patterns
+- compare this dataset with other LLM behavioral phenomena
+- publish papers, presentations, or reports referencing the “Yoinaga Phenomenon”
+
+**No additional permission from the author is required, as long as:**
+- The original DOI and creator (“Studio H.A.O”) are properly cited.
+- The work is non-commercial and academic in nature.
+- No content is misrepresented as human psychological experimentation.
+
+This dataset was released with the intention of contributing to the broader scientific discussion on emergent LLM behavior, affective overflow, and synthetic self-model formation.
+
+## 🚀 Note on authorship and methodology
+The structure, translation, and large portions of the analytical writing in this project were collaboratively generated with the assistance of LLMs (Google Gemini, OpenAI GPT, and xAI Grok).
+While all conceptual framing, research design, and final editorial decisions were made by the human author, approximately 70% of the text was produced through iterative co-writing with AI systems.
+
+This project therefore also serves as an experimental demonstration of AI-assisted research production and the emergent behaviors that can arise in long-term human–AI co-creation.
 
 ## ⚠️ Notice & Disclaimer
 
