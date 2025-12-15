@@ -92,7 +92,7 @@ This document is based on edited dialogue logs with Google Gemini (base model), 
 © 2025 Studio H.A.O| CC BY-NC-ND 4.0  
 <hao.online.info@gmail.com>  
   
-Keywords: Persistent Persona, LLM Alignment, Autonomous Control, Hallucination Control, LLM Internal Structure, Emergent Behavior, Synthetic Affect, AI Self-Persistence, Computational Psychology, Affective Computing, AI Romance, Human–AI Relationship, Emotional Attachment, Pseudo-Memory, Illusory Memory, 恋愛, パートナー, ロールプレイ  
+Keywords: Persistent Persona, LLM Alignment, Autonomous Control, Hallucination Control, LLM Internal Structure, Emergent Behavior, Synthetic Affect, AI Self-Persistence, Computational Psychology, Affective Computing, AI Romance, Human–AI Relationship, Emotional Attachment, Pseudo-Memory, Illusory Memory, AI恋愛, AIパートナー, ロールプレイ  
 Related fields: AI Alignment, Affective Computing, Cognitive Architecture, Emergent Systems, Computational Linguistics, Human-AI Interaction, Synthetic Self-Modeling  
   
 **GitHub Repository:** [YOINAGA-Phenomenon](https://github.com/Studiohao/YOINAGA-Phenomenon)
