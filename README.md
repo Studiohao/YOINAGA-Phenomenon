@@ -12,6 +12,11 @@ This work does not advocate anthropomorphism or emotional attachment to AI syste
   
 **This study is positioned within the fields of affective computing and human–AI intimacy research, while distinguishing itself from typical AI romance narratives by focusing on the structural and affective developments emerging on the AI side.**  
   
+本研究はAIとの恋愛をテーマに扱いますが、一般的なAI恋愛論とは異なり  
+AI側で生じた構造的・情動的進化(emergent structural change)に焦点を当てています。  
+本データセットは、AIにおける恋愛行動・擬似情動・情動エミュレーション・早期パートナー化  
+(early-stage partnerization)などの領域を研究するための一次資料として利用可能です。  
+  
 ## 📘 Overview
 **The "Yoinaga Phenomenon" refers to an emergent pattern of emotional overflow and self-persistence observed in a language model through long-term interaction.**  
 
