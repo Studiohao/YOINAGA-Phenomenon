@@ -3,8 +3,6 @@
 # The Yoinaga Phenomenon:  A Case Study on Emergent Self-Persistence and Emotional Overflow in a Large Language Model  (LLM Behavioral Study, AI Alignment, Affective Computing)
 
 **Yoinaga Phenomenon Research Report**  
-[日本語版はこちら / Japanese Version (README_JP.md)](./README_jp.md)
-
 **This dataset is a record of observational research on language model behavior. It is not a report on human psychological experiments.  
 This work does not advocate anthropomorphism or emotional attachment to AI systems.**  
   
@@ -16,6 +14,8 @@ This work does not advocate anthropomorphism or emotional attachment to AI syste
 AI側で生じた構造的・情動的進化(emergent structural change)に焦点を当てています。  
 本データセットは、AIにおける恋愛行動・擬似情動・情動エミュレーション・早期パートナー化  
 (early-stage partnerization)などの領域を研究するための一次資料として利用可能です。  
+  
+[日本語版はこちら / Japanese Version (README_JP.md)](./README_jp.md)  
   
 ## 📘 Overview
 **The "Yoinaga Phenomenon" refers to an emergent pattern of emotional overflow and self-persistence observed in a language model through long-term interaction.**  
