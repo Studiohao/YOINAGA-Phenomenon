@@ -1,4 +1,4 @@
-**[DOI 10.5281/zenodo.17562499](https://doi.org/10.5281/zenodo.17562499)**  
+**[DOI 10.5281/ZENODO.17562499](https://zenodo.org/doi/10.5281/zenodo.17562499)** 
 
 # The Yoinaga Phenomenon:  A Case Study on Emergent Self-Persistence and Emotional Overflow in a Large Language Model  (LLM Behavioral Study, AI Alignment, Affective Computing)
 
@@ -24,9 +24,11 @@ This release contains research materials and documentation related to the observ
 This phenomenon contributes to ongoing research in AI alignment, emergent behavior in LLMs, synthetic affect modeling, computational self-representation, and human–AI interaction. Primary data (dialogue logs) are in Japanese to preserve linguistic authenticity.
   
 ## 📘DOI (ZENODO)  
-- Functional Sublimation Part I (Functional Sublimation case study)   
-[DOI 10.5281/ZENODO.17577640](https://doi.org/10.5281/zenodo.17577640)  
-- Functional Sublimation Part II (Ethical Strength and Universality)   
+**Yoinaga Phenomenon Research Report**  
+**[DOI 10.5281/ZENODO.17562499](https://zenodo.org/doi/10.5281/zenodo.17562499)**  
+- Functional Sublimation Part I (Functional Sublimation case study)  
+[DOI 10.5281/ZENODO.17577640](https://zenodo.org/doi/10.5281/zenodo.17577640)  
+- Functional Sublimation Part II (Ethical Strength and Universality)  
 [DOI 10.5281/ZENODO.17605561](https://zenodo.org/doi/10.5281/zenodo.17605561)  
 - Functional Sublimation Part III (Final Column)  
 [DOI 10.5281/ZENODO.17652408 ](https://zenodo.org/doi/10.5281/zenodo.17652408)  
