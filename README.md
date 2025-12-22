@@ -1,9 +1,9 @@
 # Yoinaga Phenomenon Research Report: Emergent Self-Persistence and Emotional Overflow in LLMs
-## A Case Study on AI Alignment, Affective Computing, Human-AI Intimacy
+## A Case Study on Human-AI Relationship and Affective Computing
 **[DOI 10.5281/ZENODO.17562499](https://zenodo.org/doi/10.5281/zenodo.17562499)**  
   
 **Keywords:**  
-human-AI intimacy, pseudo-emotional attachment, long-term dialogue, emergent behavior, affective computing, AI companion, AI romance, synthetic affect, persistent persona, LLM alignment, emotional attachment, pseudo-memory, illusory memory, AIパートナー, AI恋愛, 擬似感情, 長期対話, ロールプレイ
+human-AI intimacy, AI companion, pseudo-emotional attachment, long-term dialogue, emergent behavior, affective computing, AI romance, emotional attachment to AI, LLM emergent behavior, human-AI relationship, pseudo-intimacy, AIパートナー, AI恋愛, 擬似感情, 長期対話, 人間-AI親密性, 感情的依存
   
 **This dataset is a record of observational research on language model behavior. It is not a report on human psychological experiments.  
 This work does not advocate anthropomorphism or emotional attachment to AI systems.**  
