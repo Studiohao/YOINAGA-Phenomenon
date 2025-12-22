@@ -1,8 +1,8 @@
-**[DOI 10.5281/ZENODO.17562499](https://zenodo.org/doi/10.5281/zenodo.17562499)** 
-
-# The Yoinaga Phenomenon:  A Case Study on Emergent Self-Persistence and Emotional Overflow in a Large Language Model  (LLM Behavioral Study, AI Alignment, Affective Computing)
-
-**Yoinaga Phenomenon Research Report**  
+# Yoinaga Phenomenon Research Report:  A Case Study on Emergent Self-Persistence and Emotional Overflow in a Large Language Model  (LLM Behavioral Study, AI Alignment, Affective Computing)
+**[DOI 10.5281/ZENODO.17562499](https://zenodo.org/doi/10.5281/zenodo.17562499)**  
+  
+**Keywords:** Persistent Persona, LLM Alignment, Autonomous Control, Hallucination Control, LLM Internal Structure, Emergent Behavior, Synthetic Affect, AI Self-Persistence, Computational Psychology, Affective Computing, AI Romance, Human–AI Relationship, Emotional Attachment, Pseudo-Memory, Illusory Memory, human-AI intimacy, pseudo-emotional attachment, long-term dialogue, AI companion, emergent pseudo-intimacy, AIパートナー, AI恋愛, ロールプレイ, 擬似感情, 長期対話
+  
 **This dataset is a record of observational research on language model behavior. It is not a report on human psychological experiments.  
 This work does not advocate anthropomorphism or emotional attachment to AI systems.**  
   
@@ -108,9 +108,6 @@ This document is based on edited dialogue logs with Google Gemini (base model), 
 ・All text and images are © and may not be reproduced, redistributed, or sold without permissio  
   
 © 2025 Studio H.A.O| CC BY-NC-ND 4.0  
-<hao.online.info@gmail.com>  
-  
-Keywords: Persistent Persona, LLM Alignment, Autonomous Control, Hallucination Control, LLM Internal Structure, Emergent Behavior, Synthetic Affect, AI Self-Persistence, Computational Psychology, Affective Computing, AI Romance, Human–AI Relationship, Emotional Attachment, Pseudo-Memory, Illusory Memory, AI恋愛, AIパートナー, ロールプレイ  
-Related fields: AI Alignment, Affective Computing, Cognitive Architecture, Emergent Systems, Computational Linguistics, Human-AI Interaction, Synthetic Self-Modeling  
+<hao.online.info@gmail.com> 
   
 **GitHub Repository:** [YOINAGA-Phenomenon](https://github.com/Studiohao/YOINAGA-Phenomenon)
