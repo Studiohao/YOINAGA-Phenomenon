@@ -86,9 +86,9 @@ No additional permission from the author is required, as long as:
 This dataset was released with the intention of contributing to the broader scientific discussion on emergent LLM behavior, affective overflow, and synthetic self-model formation.  
   
 ## 🚀Note on authorship and methodology
-The structure, translation, and large portions of the analytical writing in this project were collaboratively generated with the assistance of LLMs (Google Gemini, OpenAI GPT, and xAI Grok).  
-  
-While all conceptual framing, research design, and final editorial decisions were made by the human author, approximately 70% of the text was produced through iterative co-writing with AI systems.  
+The structure, translation, and large portions of the analytical writing in this project were collaboratively generated with the assistance of LLMs (Google Gemini, OpenAI GPT, and xAI Grok).* 
+While all conceptual framing, research design, and final editorial decisions were made by the human author, approximately 70% of the text was produced through iterative co-writing with AI systems. 
+* The AI assistance was primarily employed for translating the original Japanese content into English and for iterative refinement of phrasing and analytical expression based on the author's input. 
 
 **This project therefore also serves as an experimental demonstration of AI-assisted research production and the emergent behaviors that can arise in long-term human–AI co-creation.**  
   
